@@ -1,6 +1,6 @@
 # Birthday Countdown
 
-A lightweight, modern GNOME C++ application built with GTK 4 and Libadwaita. It calculates and displays the exact number of days until your next birthday.
+A lightweight, modern GNOME C++ application built with GTK 4 and Libadwaita. It calculates and displays the exact number of days until your next birthday. Inspired by my kids incessantly asking me how many days until their birthdays.
 
 ![Birthday Countdown Banner](bdaycountdown.svg)
 
