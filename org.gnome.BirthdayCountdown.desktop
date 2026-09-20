@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Birthday Countdown
+Comment=Calculate days until your birthday
+Exec=birthday_countdown
+Icon=org.gnome.BirthdayCountdown
+Terminal=false
+Type=Application
+Categories=Utility;GTK;
+StartupWMClass=org.gnome.BirthdayCountdown

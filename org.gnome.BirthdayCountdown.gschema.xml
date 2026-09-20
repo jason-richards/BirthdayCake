@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.BirthdayCountdown" path="/org/gnome/BirthdayCountdown/">
+    <key name="birthday" type="s">
+      <default>""</default>
+      <summary>Saved birthday string</summary>
+      <description>Stores the user's birthday in YYYY-MM-DD format.</description>
+    </key>
+  </schema>
+</schemalist>
